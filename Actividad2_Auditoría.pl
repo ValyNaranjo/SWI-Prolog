@@ -1,4 +1,3 @@
-:- discontiguous reduce_riesgo_acceso_no_autorizado/1.
 %% Hechos
 
 tiene_cortafuegos(sistema).
